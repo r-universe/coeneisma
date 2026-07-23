@@ -5,3 +5,6 @@
 [submodule "kvkapiR"]
 	path = kvkapiR
 	url = https://github.com/coeneisma/kvkapir
+[submodule "pdokr"]
+	path = pdokr
+	url = https://github.com/coeneisma/pdokr
